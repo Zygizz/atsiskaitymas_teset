@@ -1,1 +1,0 @@
-tarpinis atsiskaitymas
